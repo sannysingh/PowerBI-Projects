@@ -17,4 +17,4 @@ Synthetic HR dataset (CSV) containing employee details, tenure, department, perf
 - Interactive filters for department, role, and location.  
 - Automated reporting workflow using Python scripts.
 
-Dashboard Preview: 
+Dashboard Preview: ./HR_Analytics_Dashboard.pdf
